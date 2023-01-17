@@ -7,6 +7,6 @@ public class HelloController {
 		
 		System.out.println(" Helloooo Team how are you doing ");
 
-	}
+	}     
 
 }   
